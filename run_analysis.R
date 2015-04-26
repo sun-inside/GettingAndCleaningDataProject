@@ -7,8 +7,8 @@
 ##for each activity and each subject.
 
 # Load pacakages
-#library(dplyr)
-#library(tidyr)
+library(dplyr)
+library(tidyr)
 
 ##1 Merges the training and the test sets to create one data set.
 # Download data from the internet
